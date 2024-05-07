@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438094350074",
+    "project_id": "fir-udval-teacher",
+    "storage_bucket": "fir-udval-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438094350074:android:fd01f1c1d80c487e26eb43",
+        "android_client_info": {
+          "package_name": "com.example.my_firebase_udval_teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKYscZ0jHgE9p3iswDyVT5rVRbFoKQjs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
